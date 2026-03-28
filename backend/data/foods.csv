@@ -1,0 +1,36 @@
+Food_ID,Food_Name,Category,Calories_kcal,Price_USD,Meal_Type,BMI_Suitable,Description
+1,Bai Sach Chrouk,Protein,450,2.50,Breakfast,all,Grilled pork over rice — a classic Cambodian breakfast
+2,Kuy Teav,Noodles,400,2.50,Breakfast,all,Rice noodle soup with pork or beef broth
+3,Nom Banh Chok,Noodles,350,1.50,Breakfast,normal|overweight,Fresh rice noodles with green fish curry sauce
+4,Banh Mi,Carbohydrate,380,1.00,Breakfast,all,Cambodian baguette sandwich with pork and vegetables
+5,Congee (Bobor),Carbohydrate,250,1.50,Breakfast,overweight|obese,Cambodian rice porridge — light and easy to digest
+6,Banana,Fruit,100,0.25,Breakfast,all,Fresh banana — high in potassium
+7,Coconut Juice,Drink,150,1.00,Breakfast,all,Natural coconut water — hydrating and refreshing
+8,Fried Egg,Protein,180,0.50,Breakfast,underweight|normal,Simple fried egg — high protein breakfast addition
+9,Sticky Rice with Mango,Carbohydrate,420,2.00,Breakfast,underweight|normal,Sweet glutinous rice with fresh mango
+10,Soy Milk,Drink,120,0.75,Breakfast,all,Warm soy milk — plant-based protein drink
+11,Fish Amok,Protein,420,3.00,Lunch,all,Steamed fish curry in coconut milk — Cambodia national dish
+12,Lok Lak,Protein,520,4.00,Lunch,underweight|normal,Stir-fried beef with Kampot pepper sauce
+13,Grilled Fish,Protein,250,2.00,Lunch,all,Whole grilled fish with herbs
+14,Chicken Samlor,Protein,380,2.50,Lunch,all,Cambodian chicken soup with lemongrass
+15,Chicken Salad,Protein,350,3.00,Lunch,normal|overweight|obese,Fresh chicken salad with lime dressing
+16,Pork Rib Soup,Protein,460,3.50,Lunch,underweight|normal,Slow-cooked pork rib broth with vegetables
+17,Tofu Stir Fry,Protein,280,2.00,Lunch,overweight|obese,Stir-fried tofu with mixed vegetables
+18,Khmer Papaya Salad,Vegetables,200,1.50,Lunch,overweight|obese,Green papaya salad with lime and chili
+19,Steamed Rice,Carbohydrate,240,0.50,Lunch,all,Plain steamed jasmine rice
+20,Brown Rice,Carbohydrate,215,0.80,Lunch,overweight|obese,Healthier brown rice — high fiber
+21,Vegetable Fried Rice,Carbohydrate,380,2.00,Lunch,normal|underweight,Fried rice with mixed vegetables and egg
+22,Mango Juice,Drink,130,1.00,Lunch,all,Fresh blended mango juice
+23,Samlor Korko,Vegetables,220,2.00,Dinner,all,Cambodian mixed vegetable soup with prahok
+24,Vegetable Soup,Vegetables,150,1.50,Dinner,overweight|obese,Light vegetable broth soup
+25,Grilled Chicken,Protein,300,2.50,Dinner,all,Herb-marinated grilled chicken
+26,Steamed Fish with Ginger,Protein,230,2.50,Dinner,all,Whole steamed fish with ginger and spring onion
+27,Stir-fried Morning Glory,Vegetables,160,1.50,Dinner,overweight|obese,Water spinach stir-fried with garlic
+28,Beef with Broccoli,Protein,400,3.50,Dinner,underweight|normal,Stir-fried beef with broccoli in oyster sauce
+29,Khmer Red Curry,Protein,480,3.00,Dinner,underweight|normal,Rich coconut red curry with chicken or beef
+30,Eggplant Stir Fry,Vegetables,190,1.50,Dinner,overweight|obese,Stir-fried eggplant with minced pork
+31,Papaya Salad,Vegetables,180,1.50,Dinner,overweight|obese,Green papaya salad with peanuts
+32,Pumpkin Soup,Vegetables,200,1.75,Dinner,all,Creamy pumpkin coconut soup
+33,Steamed Broccoli,Vegetables,80,1.00,Dinner,obese,Steamed broccoli with oyster sauce
+34,Tofu Soup,Protein,200,2.00,Dinner,overweight|obese,Light tofu and vegetable soup
+35,Banana Blossom Salad,Vegetables,230,2.00,Dinner,normal|overweight,Banana flower salad with shredded chicken

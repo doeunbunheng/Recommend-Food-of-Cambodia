@@ -1,0 +1,101 @@
+Food_ID,Food_Name,Category,Calories,Average Price (USD),Meal_Type,Average Price (Riel),Health_Label
+1,Amok (Coconut fish curry),Main Dish,385kcal,3.75,Lunch/Dinner,15000,Normal
+2,Kuy Teav (Noodle Soup),Noodle,1050kcal,2.5,Breakfast,10000,High Calorie
+3,Nom Banh Chok(Khmer noodles),Noodle,440kcal,1.5,Breakfast,6000,Normal
+4,Samlar Machu Kroeung,Main Dish,406kcal,2,Lunch/Dinner,8000,Normal
+5,Kampot pepper crab,Main Dish,270kcal,4,Lunch/Dinner,16000,Normal
+6,Lap Khmer (Beef Salad),Main Dish,300kcal,2.5,Lunch/Dinner,10000,Normal
+7,Pleah sach ko (Beef ceviche),Main Dish,250kcal,2.5,Lunch/Dinner,10000,Normal
+8,Samlar Kari,Main Dish,500kcal,2,Lunch/Dinner,8000,Normal
+10,Lok lak (Stir fry),Main Dish,470kcal,2,Lunch/Dinner,8000,Normal
+11,Samlar Kako,Main Dish,267kcal,2.5,Lunch/Dinner,10000,Normal
+12,Samlar Proher,Main Dish,254kcal,1.5,Lunch/Dinner,6000,Normal
+13,Bai Sach Chrouk,Rice Dish,500kcal,2,Breakfast,8000,Normal
+14,Lort Cha,Snack,720kcal,2,Lunch,8000,High Calorie
+15,Kaw Sach Chrouk,Main Dish,710kcal,1.5,Lunch/Dinner,6000,High Calorie
+16,Boiled Egg,Protein ,70kcal,0.25,Breakfast,1000,Normal
+17,Fried Egg,Protein ,100kcal,0.25,Breakfast,1000,Normal
+18,Bobor (Rice porridge),Soup,380kcal,1.5,Breakfast,6000,Normal
+19,Samlar machu sleuk ampil,Soup,221kcal,1.5,Lunch/Dinner,6000,Healthy
+20,Fried Fish,Protein ,230kcal,1,Lunch/Dinner,4000,Normal
+21,Sngor Chrouk Trey,Main Dish,150kcal,1.5,Lunch/Dinner,6000,Normal
+22,Sngor Chrouk Moan,Main Dish,200kcal,1.5,Lunch/Dinner,6000,Normal
+23,Sngor Chrouk Beef,Main Dish,250kcal,1.5,Lunch/Dinner,6000,Normal
+24,Cha Kh'nhei,Main Dish,425kcal,1.5,Lunch/Dinner,6000,Normal
+25,Cha Kdav Chicken,Main Dish,490kcal,2,Lunch/Dinner,8000,Normal
+26,Cha Kroeung Sach Moan,Main Dish,500kcal,2,Lunch/Dinner,8000,Normal
+27,Samlar Chap chay,Main Dish,300kcal,2,Lunch/Dinner,8000,Normal
+28,Sugercane Juice,Drink,215kcal,0.75,Lunch,3000,Healthy
+29,Orange Juice,Drink,110kcal,1,Lunch,4000,Healthy
+30,Coconut water,Drink,45kcal,0.75,Lunch,3000,Healthy
+31,Suger Palm Juice,Drink,54kcal,0.5,Lunch,2000,Healthy
+32,Iced Lemon Tea,Drink,70kcal,0.75,Lunch,3000,Healthy
+33,Watermelon Juice,Drink,70kcal,1,Lunch/Dinner,4000,Healthy
+34,Avocado Smoothie,Drink,272kcal,1.5,Lunch/Dinner,6000,Healthy
+35,Nom Ka Chai,Snack,200kcal,0.25,Lunch,1000,Normal
+36,Sngor Mras,Main Dish,150kcal,2,Lunch/Dinner,8000,Normal
+37,Pork belly rice,Rice Dish,468kcal,2.25,Dinner,9000,Normal
+38,Pak Lov,Main Dish,170kcal,2.5,Dinner,10000,Normal
+39,Prahok ktiss,Main Dish,647kcal,2.5,Lunch/Dinner,10000,High Calorie
+40,Grilled Fish,Protein ,125kcal,1,Lunch/Dinner,4000,Normal
+41,Grilled Chicken,Protein ,175kcal,2.5,Lunch/Dinner,10000,Normal
+42,Sach ko Ang,Snack,225kcal,0.25,Lunch/Dinner,1000,Normal
+43,Nom Krok,Snack,60kcal,0.25,Lunch,1000,Normal
+44,Grilled Corn,Snack,125kcal,0.25,Lunch,1000,Normal
+45,Num Ansom Chek,Snack,200kcal,1.5,Lunch,6000,Normal
+46,Num Ansom Chrouk,Snack,500kcal,2,Lunch,8000,Normal
+47,Num Kroch,Snack,152kcal,0.125,Breakfast/Lunch,500,Normal
+48,Num Kom,Snack,225kcal,0.125,Breakfast/Lunch,500,Normal
+49,Num plae ai,Snack,65kcal,0.25,Breakfast/Lunch,1000,Normal
+50,Num Korng,Snack,250kcal,0.125,Breakfast/Lunch,500,Normal
+51,Num Akor,Snack,225kcal,0.25,Breakfast/Lunch,1000,Normal
+52,Grilled Banana,Snack,100kcl,0.25,Breakfast/Lunch,1000,Normal
+53,Fried Rice,Rice Dish,228kcal,1.5,Breakfast/Lunch,6000,Normal
+54,Cha Trakoun,Main Dish,118kcal,1.5,Lunch/Dinner,6000,Normal
+55,White Rice,Carbohydrate,200kcal,0.25,Lunch/Dinner,1000,Normal
+56,Tirk Kroeung,Main Dish,450kcal,1.5,Lunch/Dinner,6000,Normal
+57,Stir Fried Mushroom with Beef,Main Dish,369kcal,2,Lunch/Dinner,8000,Normal
+58,Stir Fried Mushroom with Pork,Main Dish,410kcal,1.5,Lunch/Dinner,6000,Normal
+59,Num Pom,Snack,200kcal,0.25,Lunch,1000,Normal
+60,Num Krolan,Snack,400kcal,1.5,Lunch,6000,Normal
+61,Beef soup,Soup ,425kcal,2.5,Dinner,10000,Normal
+62,Kha trei svay kchai,Main Dish,342.5kcal,2,Lunch/Dinner,8000,Normal
+63,Mee Kola,Noodle,582.5kcal,2,Lunch/Dinner,8000,High Calorie
+64,Sngor Tralach (Cambodian Winter Melon Soup with Pork),Main Dish,185kcsl,1.5,Lunch/Dinner,6000,Normal
+65,Sngor Jrouk Spey,Main Dish,175kcal,1.5,Lunch/Dinner,6000,Normal
+66,Fried Yardlong Bean with Pork,Main Dish,359kcal,1.5,Lunch/Dinner,6000,Normal
+67,Fried Gourd with Pork,Main Dish,340kcal,1.5,Lunch/Dinner,6000,Normal
+68,Fried Sponge Gourd with Egg,Main Dish,175kcal,1.5,Lunch/Dinner,6000,Normal
+69,Fried Eggplant with Minced Pork,Main Dish,240kcal,1.5,Lunch/Dinner,6000,Normal
+70,Grilled Frog,Protein ,72kcal,1.25,Lunch/Dinner,5000,Normal
+71,Cha Kdav Snail,Main Dish,80kcal,1.5,Lunch/Dinner,6000,Normal
+72,Fried Sour Bamboo with Pork,Main Dish,342.5kcal,1.5,Lunch/Dinner,6000,Normal
+73,Cha Jrouk Spey,Main Dish,150kcal,1.5,Lunch/Dinner,6000,Normal
+74,Cha Houy Teu (Sweet Jelly),Dessert,300kcal,0.75,Afternoon,3000,Normal
+75,Num Chak Kachan,Dessert,250kcal,0.5,Morning/Afternoon,2000,Normal
+76,Sankhya Lapov (Pumpkin Custard),Dessert,443kcal,1,Afternoon,4000,Normal
+77,Nom Lort (Cambodian Pandan Coconut Dessert),Dessert,225kcal,0.75,Afternoon,3000,Normal
+78,Banh Ja'neuk (Khmer Glutinous Rice Ball),Dessert,489kcal,0.75,Afternoon,3000,Normal
+79,Chek K'tiss,Dessert,318kcal,0.5,Afternoon,2000,Normal
+80,Coconut Jelly,Dessert,75kcal,0.75,Afternoon,3000,Normal
+81,Sweet Corn Porridge,Dessert,285kcal,0.5,Afternoon,2000,Normal
+82,Num Pom,Dessert,250kcal,0.25,Morning/Afternoon,1000,Normal
+83,Babor Trav (Taro with Sticky Rice Dessert),Dessert,170kcal,0.5,Afternoon,2000,Normal
+84,Coconut Jackfruit Jelly,Dessert,150kcal,0.25,Afternoon,1000,Normal
+85,Num Treap (Sticky Rice with Sesame Seeds),Dessert,175kcal,0.25,Morning/Afternoon,1000,Normal
+86,Nom Bak Ben,Dessert,331kcal,0.5,Morning/Afternoon,2000,Normal
+87,Rice with grilled chicken,Rice dish,413.5 kcal,1.75,Lunch,7000,Normal
+88,Rice with omelette ,Rice dish,425 Kcal,1.625,Breakfast,6500,Normal
+89,Rice with fried fish,Rice dish,650Kcal,2.375,Lunch/Dinner,9500,High Calorie
+90,Banana,Fruit,89kcal,0.7625,Breakfast,3050,Healthy
+91,Seafood soup,Soup,250Kcal,3.5,Dinner,14000,Healthy
+92,Papaya,Fruit,62kcal,0.75,Breakfast ,3000,Healthy
+93,Dragon Fruit ,Fruit,57kcal,2,Morning/Lunch,8000,Healthy
+94,Watermelon,Fruit,30kcal,0.5,Morning/Lunch,2000,Healthy
+95,Pineapple,Fruit,50kcal,0.5,Morning/Lunch,2000,Healthy
+96,Mango,Fruit,60kcal,0.25,Lunch,1000,Healthy
+97,Omelette,Protein ,215Kcal,1.1,Morning,4400,Normal
+98,Jack Fruit,Fruit,95kcal,0.5,Morning,2000,Healthy
+99,Orange,Fruit,47kcal,0.68,Morning/Afternoon,2720,Healthy
+100,Beef Stir Fry,Protein ,450Kcal,2.5,Lunch/Dinner,10000,Normal
+101,Grilled Pork ,Protein ,350Kcal,1.5,Lunch/Dinner,6000,Normal

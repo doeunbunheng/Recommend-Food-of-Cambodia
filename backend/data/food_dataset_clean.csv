@@ -1,0 +1,100 @@
+Food_ID,Food_Name,Category,Calories,Price_USD,Meal_Type,Price_Riel,health_label,Calorie_Level,Price_Level,Health_Label
+1,Amok,Main Dish,385.0,3.75,Lunch/Dinner,15000,Normal,Medium,Expensive,Normal
+2,Kuy Teav,Noodles,800.0,2.5,Breakfast,10000,High Calorie,High,Medium,High Calorie
+3,Nom Banh Chok,Noodles,440.0,1.5,Breakfast,6000,Normal,Medium,Medium,Normal
+4,Samlar Machu Kroeung,Main Dish,406.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+5,Kampot pepper crab,Main Dish,270.0,4.0,Lunch/Dinner,16000,Normal,Low,Expensive,Normal
+6,Lap Khmer,Main Dish,300.0,2.5,Lunch/Dinner,10000,Normal,Medium,Medium,Normal
+7,Pleah sach ko,Main Dish,250.0,2.5,Lunch/Dinner,10000,Normal,Low,Medium,Normal
+8,Samlar Kari,Main Dish,500.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+10,Lok lak,Main Dish,470.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+11,Samlar Kako,Main Dish,267.0,2.5,Lunch/Dinner,10000,Normal,Low,Medium,Normal
+12,Samlar Proher,Main Dish,254.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+13,Bai Sach Chrouk,Rice,500.0,2.0,Breakfast,8000,Normal,Medium,Medium,Normal
+14,Lort Cha,Snack,720.0,2.0,Lunch,8000,High Calorie,High,Medium,High Calorie
+15,Kaw Sach Chrouk,Main Dish,710.0,1.5,Lunch/Dinner,6000,High Calorie,High,Medium,High Calorie
+16,Boiled Egg,Protein ,70.0,0.25,Breakfast,1000,Normal,Low,Cheap,Normal
+17,Fried Egg,Protein ,100.0,0.25,Breakfast,1000,Normal,Low,Cheap,Normal
+18,Bobor,Soup,380.0,1.5,Breakfast,6000,Normal,Medium,Medium,Normal
+19,Samlar machu sleuk ampil,Soup,221.0,1.5,Lunch/Dinner,6000,Healthy,Low,Medium,Healthy
+20,Fried Fish,Protein ,230.0,1.0,Lunch/Dinner,4000,Normal,Low,Cheap,Normal
+21,Sngor Chrouk Trey,Main Dish,150.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+22,Sngor Chrouk Moan,Main Dish,200.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+23,Sngor Chrouk Beef,Main Dish,250.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+24,Cha Kh'nhei,Main Dish,425.0,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
+25,Cha Kdav Chicken,Main Dish,490.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+26,Cha Kroeung Sach Moan,Main Dish,500.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+27,Samlar Chap chay,Main Dish,300.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+28,Sugercane Juice,Drink,215.0,0.75,Lunch,3000,Healthy,Low,Cheap,Healthy
+29,Orange Juice,Drink,110.0,1.0,Lunch,4000,Healthy,Low,Cheap,Healthy
+30,Coconut water,Drink,45.0,0.75,Lunch,3000,Healthy,Low,Cheap,Healthy
+31,Suger Palm Juice,Drink,54.0,0.5,Lunch,2000,Healthy,Low,Cheap,Healthy
+32,Iced Lemon Tea,Drink,70.0,0.75,Lunch,3000,Healthy,Low,Cheap,Healthy
+33,Watermelon Juice,Drink,70.0,1.0,Lunch/Dinner,4000,Healthy,Low,Cheap,Healthy
+34,Avocado Smoothie,Drink,272.0,1.5,Lunch/Dinner,6000,Healthy,Low,Medium,Healthy
+35,Nom Ka Chai,Snack,200.0,0.25,Lunch,1000,Normal,Low,Cheap,Normal
+36,Sngor Mras,Main Dish,150.0,2.0,Lunch/Dinner,8000,Normal,Low,Medium,Normal
+37,Pork belly rice,Rice,468.0,2.25,Dinner,9000,Normal,Medium,Medium,Normal
+38,Pak Lov,Main Dish,170.0,2.5,Dinner,10000,Normal,Low,Medium,Normal
+39,Prahok ktiss,Main Dish,647.0,2.5,Lunch/Dinner,10000,High Calorie,High,Medium,High Calorie
+40,Grilled Fish,Protein ,125.0,1.0,Lunch/Dinner,4000,Normal,Low,Cheap,Normal
+41,Grilled Chicken,Protein ,175.0,2.5,Lunch/Dinner,10000,Normal,Low,Medium,Normal
+42,Sach ko Ang,Snack,225.0,0.25,Lunch/Dinner,1000,Normal,Low,Cheap,Normal
+43,Nom Krok,Snack,60.0,0.25,Lunch,1000,Normal,Low,Cheap,Normal
+44,Grilled Corn,Snack,125.0,0.25,Lunch,1000,Normal,Low,Cheap,Normal
+45,Num Ansom Chek,Snack,200.0,1.5,Lunch,6000,Normal,Low,Medium,Normal
+46,Num Ansom Chrouk,Snack,500.0,2.0,Lunch,8000,Normal,Medium,Medium,Normal
+47,Num Kroch,Snack,152.0,0.125,Breakfast/Lunch,500,Normal,Low,Cheap,Normal
+48,Num Kom,Snack,225.0,0.125,Breakfast/Lunch,500,Normal,Low,Cheap,Normal
+49,Num plae ai,Snack,65.0,0.25,Breakfast/Lunch,1000,Normal,Low,Cheap,Normal
+50,Num Korng,Snack,250.0,0.125,Breakfast/Lunch,500,Normal,Low,Cheap,Normal
+51,Num Akor,Snack,225.0,0.25,Breakfast/Lunch,1000,Normal,Low,Cheap,Normal
+52,Grilled Banana,Snack,100.0,0.25,Breakfast/Lunch,1000,Normal,Low,Cheap,Normal
+53,Fried Rice,Rice,228.0,1.5,Breakfast/Lunch,6000,Normal,Low,Medium,Normal
+54,Cha Trakoun,Main Dish,118.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+55,White Rice,Rice,200.0,0.25,Lunch/Dinner,1000,Normal,Low,Cheap,Normal
+56,Tirk Kroeung,Main Dish,450.0,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
+57,Stir Fried Mushroom with Beef,Main Dish,369.0,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+58,Stir Fried Mushroom with Pork,Main Dish,410.0,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
+59,Num Pom,Snack,200.0,0.25,Lunch,1000,Normal,Low,Cheap,Normal
+60,Num Krolan,Snack,400.0,1.5,Lunch,6000,Normal,Medium,Medium,Normal
+61,Beef soup,Soup ,425.0,2.5,Dinner,10000,Normal,Medium,Medium,Normal
+62,Kha trei svay kchai,Main Dish,342.5,2.0,Lunch/Dinner,8000,Normal,Medium,Medium,Normal
+63,Mee Kola,Noodles,582.5,2.0,Lunch/Dinner,8000,High Calorie,High,Medium,High Calorie
+64,Sngor Tralach,Main Dish,185.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+65,Sngor Jrouk Spey,Main Dish,175.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+66,Fried Yardlong Bean with Pork,Main Dish,359.0,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
+67,Fried Gourd with Pork,Main Dish,340.0,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
+68,Fried Sponge Gourd with Egg,Main Dish,175.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+69,Fried Eggplant with Minced Pork,Main Dish,240.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+70,Grilled Frog,Protein ,72.0,1.25,Lunch/Dinner,5000,Normal,Low,Cheap,Normal
+71,Cha Kdav Snail,Main Dish,80.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+72,Fried Sour Bamboo with Pork,Main Dish,342.5,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
+73,Cha Jrouk Spey,Main Dish,150.0,1.5,Lunch/Dinner,6000,Normal,Low,Medium,Normal
+74,Cha Houy Teu,Dessert,300.0,0.75,Afternoon,3000,Normal,Medium,Cheap,Normal
+75,Num Chak Kachan,Dessert,250.0,0.5,Morning/Afternoon,2000,Normal,Low,Cheap,Normal
+76,Sankhya Lapov,Dessert,443.0,1.0,Afternoon,4000,Normal,Medium,Cheap,Normal
+77,Nom Lort,Dessert,225.0,0.75,Afternoon,3000,Normal,Low,Cheap,Normal
+78,Banh Ja'neuk,Dessert,489.0,0.75,Afternoon,3000,Normal,Medium,Cheap,Normal
+79,Chek K'tiss,Dessert,318.0,0.5,Afternoon,2000,Normal,Medium,Cheap,Normal
+80,Coconut Jelly,Dessert,75.0,0.75,Afternoon,3000,Normal,Low,Cheap,Normal
+81,Sweet Corn Porridge,Dessert,285.0,0.5,Afternoon,2000,Normal,Low,Cheap,Normal
+83,Babor Trav,Dessert,170.0,0.5,Afternoon,2000,Normal,Low,Cheap,Normal
+84,Coconut Jackfruit Jelly,Dessert,150.0,0.25,Afternoon,1000,Normal,Low,Cheap,Normal
+85,Num Treap,Dessert,175.0,0.25,Morning/Afternoon,1000,Normal,Low,Cheap,Normal
+86,Nom Bak Ben,Dessert,331.0,0.5,Morning/Afternoon,2000,Normal,Medium,Cheap,Normal
+87,Rice with grilled chicken,Rice,413.5,1.75,Lunch,7000,Normal,Medium,Medium,Normal
+88,Rice with omelette,Rice,425.0,1.625,Breakfast,6500,Normal,Medium,Medium,Normal
+89,Rice with fried fish,Rice,650.0,2.375,Lunch/Dinner,9500,High Calorie,High,Medium,High Calorie
+90,Banana,Fruit,89.0,0.7625,Breakfast,3050,Healthy,Low,Cheap,Healthy
+91,Seafood soup,Soup,250.0,3.5,Dinner,14000,Healthy,Low,Expensive,Healthy
+92,Papaya,Fruit,62.0,0.75,Breakfast ,3000,Healthy,Low,Cheap,Healthy
+93,Dragon Fruit,Fruit,57.0,2.0,Morning/Lunch,8000,Healthy,Low,Medium,Healthy
+94,Watermelon,Fruit,30.0,0.5,Morning/Lunch,2000,Healthy,Low,Cheap,Healthy
+95,Pineapple,Fruit,50.0,0.5,Morning/Lunch,2000,Healthy,Low,Cheap,Healthy
+96,Mango,Fruit,60.0,0.25,Lunch,1000,Healthy,Low,Cheap,Healthy
+97,Omelette,Protein ,215.0,1.1,Morning,4400,Normal,Low,Cheap,Normal
+98,Jack Fruit,Fruit,95.0,0.5,Morning,2000,Healthy,Low,Cheap,Healthy
+99,Orange,Fruit,47.0,0.68,Morning/Afternoon,2720,Healthy,Low,Cheap,Healthy
+100,Beef Stir Fry,Protein ,450.0,2.5,Lunch/Dinner,10000,Normal,Medium,Medium,Normal
+101,Grilled Pork,Protein ,350.0,1.5,Lunch/Dinner,6000,Normal,Medium,Medium,Normal
